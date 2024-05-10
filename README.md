@@ -2,6 +2,8 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 Just Clone the project using git clone ""
 
+then change directory cd ArticleApp
+
 Install Node modules using npm i
 
 Run The Server: **npm run dev **
